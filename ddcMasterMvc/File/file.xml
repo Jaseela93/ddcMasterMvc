@@ -76,7 +76,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>C-ARM EACH SHOOT</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -93,7 +93,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>SUCTION FILTER</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -112,7 +112,7 @@
       <ID>A-CH1169536</ID>
       <Start>21/02/2023 12:01</Start>
       <Type>5</Type>
-      <Code>New value</Code>
+      <Code>0053-264601-1931</Code>
       <Quantity>50.00</Quantity>
       <Net>122</Net>
       <Clinician>MOHD47486</Clinician>
@@ -120,7 +120,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>SEVOFLURANE 250 ml</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -137,7 +137,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>K -WIRE - DOUBLE TROCAR 1.6mm DIA x 180mm</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -146,7 +146,7 @@
       <ID>P-CH1169329-291183</ID>
       <Start>21/02/2023 10:29</Start>
       <Type>5</Type>
-      <Code>New value</Code>
+      <Code>0005-107704-0801</Code>
       <Quantity>2.00</Quantity>
       <Net>88.92</Net>
       <Clinician>MOHD47486</Clinician>
@@ -214,7 +214,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>BREATHING CIRCUITS - ADULT</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -231,7 +231,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>UNIVERSAL PACK</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -258,7 +258,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>SURGICAL GOWN REINFORCED - LARGE</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -342,7 +342,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>SUTURE VICRYL 2.0 UNDYED 26 MM CUTTING W9527</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -351,7 +351,7 @@
       <ID>A-CH1169541</ID>
       <Start>21/02/2023 12:01</Start>
       <Type>5</Type>
-      <Code>New value</Code>
+      <Code>0135-206604-1021</Code>
       <Quantity>1.00</Quantity>
       <Net>26.22</Net>
       <Clinician>MOHD47486</Clinician>
@@ -359,7 +359,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>TEKAM 50 mg/ml 10 ml VIAL</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -376,7 +376,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>Dressing - ROLTA SOFT (Undercast Padding)  15 cm X 3 cm</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -403,7 +403,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>Dressing - IV CANNULA DRESSING (7cm x 9cm) -  Adult</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -412,7 +412,7 @@
       <ID>A-CH1169539</ID>
       <Start>21/02/2023 12:01</Start>
       <Type>5</Type>
-      <Code>New value</Code>
+      <Code>0384-111908-1002</Code>
       <Quantity>1.00</Quantity>
       <Net>6.46</Net>
       <Clinician>MOHD47486</Clinician>
@@ -422,7 +422,7 @@
       <ID>P-CH1169329-291182</ID>
       <Start>21/02/2023 10:29</Start>
       <Type>5</Type>
-      <Code>New value</Code>
+      <Code>2190-106618-1001</Code>
       <Quantity>1.00</Quantity>
       <Net>6.38</Net>
       <Clinician>MOHD47486</Clinician>
@@ -442,7 +442,7 @@
       <ID>A-CH1169335</ID>
       <Start>21/02/2023 10:30</Start>
       <Type>5</Type>
-      <Code>New value</Code>
+      <Code>0384-207801-1002</Code>
       <Quantity>1.00</Quantity>
       <Net>4.18</Net>
       <Clinician>MOHD47486</Clinician>
@@ -450,7 +450,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>RINGER LACTATE 500 ml</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -459,7 +459,7 @@
       <ID>A-CH1169540</ID>
       <Start>21/02/2023 12:01</Start>
       <Type>5</Type>
-      <Code>New value</Code>
+      <Code>0384-207801-1002</Code>
       <Quantity>1.00</Quantity>
       <Net>4.18</Net>
       <Clinician>MOHD47486</Clinician>
@@ -467,7 +467,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>RINGER LACTATE 500 ml</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -484,7 +484,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>GLOVES - LATEX NITRILE GLOVES(MEDIUM)</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -501,7 +501,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>CANNULA - IV CANNULA 20G VENEFLON</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -510,7 +510,7 @@
       <ID>A-CH1169336</ID>
       <Start>21/02/2023 10:30</Start>
       <Type>5</Type>
-      <Code>New value</Code>
+      <Code>2501-111903-1002</Code>
       <Quantity>1.00</Quantity>
       <Net>3.04</Net>
       <Clinician>MOHD47486</Clinician>
@@ -528,7 +528,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>SYRINGE-10 ML</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -545,7 +545,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>ALCOHOL SWABS</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -562,7 +562,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>SYRINGE-1 ML</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -579,7 +579,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>NURSES CAP</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -596,7 +596,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>BIOHAZARD SPECIMEN BAG (100/PK)</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -613,7 +613,7 @@
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>SANIPLAST- SPOT PLASTER</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -7741,7 +7741,7 @@ RU9GCg==
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>IV Inj Triaxone</Value>
         <ValueType>Other</ValueType>
       </Observation>
@@ -7758,7 +7758,7 @@ RU9GCg==
       <!-- Observations information -->
       <Observation>
         <Type>Text</Type>
-        <Code>New value</Code>
+        <Code>Description</Code>
         <Value>IV Inj Parafusiv</Value>
         <ValueType>Other</ValueType>
       </Observation>
